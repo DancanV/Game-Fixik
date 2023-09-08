@@ -1,0 +1,153 @@
+C:\Users\danii\Desktop\Курсова\Fixik\Kyrsova\Kyrsova\bin\Debug\Kyrsova.exe.config
+C:\Users\danii\Desktop\Курсова\Fixik\Kyrsova\Kyrsova\bin\Debug\Kyrsova.exe
+C:\Users\danii\Desktop\Курсова\Fixik\Kyrsova\Kyrsova\bin\Debug\Kyrsova.pdb
+C:\Users\danii\Desktop\Курсова\Fixik\Kyrsova\Kyrsova\obj\Debug\Kyrsova.csproj.AssemblyReference.cache
+C:\Users\danii\Desktop\Курсова\Fixik\Kyrsova\Kyrsova\obj\Debug\Kyrsova.csproj.SuggestedBindingRedirects.cache
+C:\Users\danii\Desktop\Курсова\Fixik\Kyrsova\Kyrsova\obj\Debug\Kyrsova.Properties.Resources.resources
+C:\Users\danii\Desktop\Курсова\Fixik\Kyrsova\Kyrsova\obj\Debug\Kyrsova.Zamok.resources
+C:\Users\danii\Desktop\Курсова\Fixik\Kyrsova\Kyrsova\obj\Debug\Kyrsova.csproj.GenerateResource.cache
+C:\Users\danii\Desktop\Курсова\Fixik\Kyrsova\Kyrsova\obj\Debug\Kyrsova.csproj.CoreCompileInputs.cache
+C:\Users\danii\Desktop\Курсова\Fixik\Kyrsova\Kyrsova\obj\Debug\Kyrsova.exe
+C:\Users\danii\Desktop\Курсова\Fixik\Kyrsova\Kyrsova\obj\Debug\Kyrsova.pdb
+C:\Users\danii\Desktop\Курсова\Fixik\Kyrsova\Kyrsova\obj\Debug\Kyrsova.Form1.resources
+C:\Users\danii\Desktop\Курсова\Fixik\Kyrsova\Kyrsova\obj\Debug\Kyrsova.Oclock.resources
+C:\Users\danii\Desktop\Курсова\Fixik\Kyrsova\Kyrsova\obj\Debug\Kyrsova.Pomagator.resources
+C:\Users\danii\Desktop\Курсова\Fixik\Kyrsova\Kyrsova\bin\Debug\Newtonsoft.Json.dll
+C:\Users\danii\Desktop\Курсова\Fixik\Kyrsova\Kyrsova\bin\Debug\Newtonsoft.Json.xml
+C:\Users\danii\Desktop\Курсова\Fixik\Kyrsova\Kyrsova\obj\Debug\Kyrsova.csproj.CopyComplete
+C:\Users\loban\OneDrive\Рабочий стол\Fixik\Kyrsova\Kyrsova\bin\Debug\Kyrsova.exe.config
+C:\Users\loban\OneDrive\Рабочий стол\Fixik\Kyrsova\Kyrsova\bin\Debug\Kyrsova.exe
+C:\Users\loban\OneDrive\Рабочий стол\Fixik\Kyrsova\Kyrsova\bin\Debug\Kyrsova.pdb
+C:\Users\loban\OneDrive\Рабочий стол\Fixik\Kyrsova\Kyrsova\bin\Debug\Newtonsoft.Json.dll
+C:\Users\loban\OneDrive\Рабочий стол\Fixik\Kyrsova\Kyrsova\bin\Debug\Newtonsoft.Json.xml
+C:\Users\loban\OneDrive\Рабочий стол\Fixik\Kyrsova\Kyrsova\obj\Debug\Kyrsova.csproj.AssemblyReference.cache
+C:\Users\loban\OneDrive\Рабочий стол\Fixik\Kyrsova\Kyrsova\obj\Debug\Kyrsova.csproj.SuggestedBindingRedirects.cache
+C:\Users\loban\OneDrive\Рабочий стол\Fixik\Kyrsova\Kyrsova\obj\Debug\Kyrsova.Form1.resources
+C:\Users\loban\OneDrive\Рабочий стол\Fixik\Kyrsova\Kyrsova\obj\Debug\Kyrsova.Oclock.resources
+C:\Users\loban\OneDrive\Рабочий стол\Fixik\Kyrsova\Kyrsova\obj\Debug\Kyrsova.Pomagator.resources
+C:\Users\loban\OneDrive\Рабочий стол\Fixik\Kyrsova\Kyrsova\obj\Debug\Kyrsova.Properties.Resources.resources
+C:\Users\loban\OneDrive\Рабочий стол\Fixik\Kyrsova\Kyrsova\obj\Debug\Kyrsova.Zamok.resources
+C:\Users\loban\OneDrive\Рабочий стол\Fixik\Kyrsova\Kyrsova\obj\Debug\Kyrsova.csproj.GenerateResource.cache
+C:\Users\loban\OneDrive\Рабочий стол\Fixik\Kyrsova\Kyrsova\obj\Debug\Kyrsova.csproj.CoreCompileInputs.cache
+C:\Users\loban\OneDrive\Рабочий стол\Fixik\Kyrsova\Kyrsova\obj\Debug\Kyrsova.csproj.CopyComplete
+C:\Users\loban\OneDrive\Рабочий стол\Fixik\Kyrsova\Kyrsova\obj\Debug\Kyrsova.exe
+C:\Users\loban\OneDrive\Рабочий стол\Fixik\Kyrsova\Kyrsova\obj\Debug\Kyrsova.pdb
+C:\Users\danii\Desktop\п\Kyrsova\bin\Debug\Kyrsova.exe.config
+C:\Users\danii\Desktop\п\Kyrsova\bin\Debug\Kyrsova.exe
+C:\Users\danii\Desktop\п\Kyrsova\bin\Debug\Kyrsova.pdb
+C:\Users\danii\Desktop\п\Kyrsova\bin\Debug\Newtonsoft.Json.dll
+C:\Users\danii\Desktop\п\Kyrsova\bin\Debug\Newtonsoft.Json.xml
+C:\Users\danii\Desktop\п\Kyrsova\obj\Debug\Kyrsova.csproj.AssemblyReference.cache
+C:\Users\danii\Desktop\п\Kyrsova\obj\Debug\Kyrsova.csproj.SuggestedBindingRedirects.cache
+C:\Users\danii\Desktop\п\Kyrsova\obj\Debug\Kyrsova.Form1.resources
+C:\Users\danii\Desktop\п\Kyrsova\obj\Debug\Kyrsova.Oclock.resources
+C:\Users\danii\Desktop\п\Kyrsova\obj\Debug\Kyrsova.Pomagator.resources
+C:\Users\danii\Desktop\п\Kyrsova\obj\Debug\Kyrsova.Properties.Resources.resources
+C:\Users\danii\Desktop\п\Kyrsova\obj\Debug\Kyrsova.Zamok.resources
+C:\Users\danii\Desktop\п\Kyrsova\obj\Debug\Kyrsova.csproj.GenerateResource.cache
+C:\Users\danii\Desktop\п\Kyrsova\obj\Debug\Kyrsova.csproj.CoreCompileInputs.cache
+C:\Users\danii\Desktop\п\Kyrsova\obj\Debug\Kyrsova.csproj.CopyComplete
+C:\Users\danii\Desktop\п\Kyrsova\obj\Debug\Kyrsova.exe
+C:\Users\danii\Desktop\п\Kyrsova\obj\Debug\Kyrsova.pdb
+C:\Users\danii\Desktop\C#\Курсова\Kyrsova\bin\Debug\Kyrsova.exe.config
+C:\Users\danii\Desktop\C#\Курсова\Kyrsova\bin\Debug\Kyrsova.exe
+C:\Users\danii\Desktop\C#\Курсова\Kyrsova\bin\Debug\Kyrsova.pdb
+C:\Users\danii\Desktop\C#\Курсова\Kyrsova\bin\Debug\Newtonsoft.Json.dll
+C:\Users\danii\Desktop\C#\Курсова\Kyrsova\bin\Debug\Newtonsoft.Json.xml
+C:\Users\danii\Desktop\C#\Курсова\Kyrsova\obj\Debug\Kyrsova.csproj.AssemblyReference.cache
+C:\Users\danii\Desktop\C#\Курсова\Kyrsova\obj\Debug\Kyrsova.csproj.SuggestedBindingRedirects.cache
+C:\Users\danii\Desktop\C#\Курсова\Kyrsova\obj\Debug\Kyrsova.Form1.resources
+C:\Users\danii\Desktop\C#\Курсова\Kyrsova\obj\Debug\Kyrsova.Oclock.resources
+C:\Users\danii\Desktop\C#\Курсова\Kyrsova\obj\Debug\Kyrsova.Pomagator.resources
+C:\Users\danii\Desktop\C#\Курсова\Kyrsova\obj\Debug\Kyrsova.Properties.Resources.resources
+C:\Users\danii\Desktop\C#\Курсова\Kyrsova\obj\Debug\Kyrsova.Zamok.resources
+C:\Users\danii\Desktop\C#\Курсова\Kyrsova\obj\Debug\Kyrsova.csproj.GenerateResource.cache
+C:\Users\danii\Desktop\C#\Курсова\Kyrsova\obj\Debug\Kyrsova.csproj.CoreCompileInputs.cache
+C:\Users\danii\Desktop\C#\Курсова\Kyrsova\obj\Debug\Kyrsova.csproj.CopyComplete
+C:\Users\danii\Desktop\C#\Курсова\Kyrsova\obj\Debug\Kyrsova.exe
+C:\Users\danii\Desktop\C#\Курсова\Kyrsova\obj\Debug\Kyrsova.pdb
+C:\Users\loban\OneDrive\Рабочий стол\Курсова\Kyrsova\bin\Debug\Kyrsova.exe.config
+C:\Users\loban\OneDrive\Рабочий стол\Курсова\Kyrsova\bin\Debug\Kyrsova.exe
+C:\Users\loban\OneDrive\Рабочий стол\Курсова\Kyrsova\bin\Debug\Kyrsova.pdb
+C:\Users\loban\OneDrive\Рабочий стол\Курсова\Kyrsova\bin\Debug\Newtonsoft.Json.dll
+C:\Users\loban\OneDrive\Рабочий стол\Курсова\Kyrsova\bin\Debug\Newtonsoft.Json.xml
+C:\Users\loban\OneDrive\Рабочий стол\Курсова\Kyrsova\obj\Debug\Kyrsova.csproj.AssemblyReference.cache
+C:\Users\loban\OneDrive\Рабочий стол\Курсова\Kyrsova\obj\Debug\Kyrsova.csproj.SuggestedBindingRedirects.cache
+C:\Users\loban\OneDrive\Рабочий стол\Курсова\Kyrsova\obj\Debug\Kyrsova.Form1.resources
+C:\Users\loban\OneDrive\Рабочий стол\Курсова\Kyrsova\obj\Debug\Kyrsova.Oclock.resources
+C:\Users\loban\OneDrive\Рабочий стол\Курсова\Kyrsova\obj\Debug\Kyrsova.Pomagator.resources
+C:\Users\loban\OneDrive\Рабочий стол\Курсова\Kyrsova\obj\Debug\Kyrsova.Properties.Resources.resources
+C:\Users\loban\OneDrive\Рабочий стол\Курсова\Kyrsova\obj\Debug\Kyrsova.Zamok.resources
+C:\Users\loban\OneDrive\Рабочий стол\Курсова\Kyrsova\obj\Debug\Kyrsova.csproj.GenerateResource.cache
+C:\Users\loban\OneDrive\Рабочий стол\Курсова\Kyrsova\obj\Debug\Kyrsova.csproj.CoreCompileInputs.cache
+C:\Users\loban\OneDrive\Рабочий стол\Курсова\Kyrsova\obj\Debug\Kyrsova.csproj.CopyComplete
+C:\Users\loban\OneDrive\Рабочий стол\Курсова\Kyrsova\obj\Debug\Kyrsova.exe
+C:\Users\loban\OneDrive\Рабочий стол\Курсова\Kyrsova\obj\Debug\Kyrsova.pdb
+C:\Users\danii\Desktop\Новая папка\Kyrsova\bin\Debug\Kyrsova.exe.config
+C:\Users\danii\Desktop\Новая папка\Kyrsova\bin\Debug\Kyrsova.exe
+C:\Users\danii\Desktop\Новая папка\Kyrsova\bin\Debug\Kyrsova.pdb
+C:\Users\danii\Desktop\Новая папка\Kyrsova\bin\Debug\Newtonsoft.Json.dll
+C:\Users\danii\Desktop\Новая папка\Kyrsova\bin\Debug\Newtonsoft.Json.xml
+C:\Users\danii\Desktop\Новая папка\Kyrsova\obj\Debug\Kyrsova.csproj.AssemblyReference.cache
+C:\Users\danii\Desktop\Новая папка\Kyrsova\obj\Debug\Kyrsova.csproj.SuggestedBindingRedirects.cache
+C:\Users\danii\Desktop\Новая папка\Kyrsova\obj\Debug\Kyrsova.Form1.resources
+C:\Users\danii\Desktop\Новая папка\Kyrsova\obj\Debug\Kyrsova.Oclock.resources
+C:\Users\danii\Desktop\Новая папка\Kyrsova\obj\Debug\Kyrsova.Pomagator.resources
+C:\Users\danii\Desktop\Новая папка\Kyrsova\obj\Debug\Kyrsova.Properties.Resources.resources
+C:\Users\danii\Desktop\Новая папка\Kyrsova\obj\Debug\Kyrsova.Zamok.resources
+C:\Users\danii\Desktop\Новая папка\Kyrsova\obj\Debug\Kyrsova.csproj.GenerateResource.cache
+C:\Users\danii\Desktop\Новая папка\Kyrsova\obj\Debug\Kyrsova.csproj.CoreCompileInputs.cache
+C:\Users\danii\Desktop\Новая папка\Kyrsova\obj\Debug\Kyrsova.csproj.CopyComplete
+C:\Users\danii\Desktop\Новая папка\Kyrsova\obj\Debug\Kyrsova.exe
+C:\Users\danii\Desktop\Новая папка\Kyrsova\obj\Debug\Kyrsova.pdb
+C:\Users\danii\Desktop\FixikFinal\Kyrsova\bin\Debug\Kyrsova.exe.config
+C:\Users\danii\Desktop\FixikFinal\Kyrsova\bin\Debug\Kyrsova.exe
+C:\Users\danii\Desktop\FixikFinal\Kyrsova\bin\Debug\Kyrsova.pdb
+C:\Users\danii\Desktop\FixikFinal\Kyrsova\bin\Debug\Newtonsoft.Json.dll
+C:\Users\danii\Desktop\FixikFinal\Kyrsova\bin\Debug\Newtonsoft.Json.xml
+C:\Users\danii\Desktop\FixikFinal\Kyrsova\obj\Debug\Kyrsova.csproj.AssemblyReference.cache
+C:\Users\danii\Desktop\FixikFinal\Kyrsova\obj\Debug\Kyrsova.csproj.SuggestedBindingRedirects.cache
+C:\Users\danii\Desktop\FixikFinal\Kyrsova\obj\Debug\Kyrsova.Form1.resources
+C:\Users\danii\Desktop\FixikFinal\Kyrsova\obj\Debug\Kyrsova.Oclock.resources
+C:\Users\danii\Desktop\FixikFinal\Kyrsova\obj\Debug\Kyrsova.Pomagator.resources
+C:\Users\danii\Desktop\FixikFinal\Kyrsova\obj\Debug\Kyrsova.Properties.Resources.resources
+C:\Users\danii\Desktop\FixikFinal\Kyrsova\obj\Debug\Kyrsova.Zamok.resources
+C:\Users\danii\Desktop\FixikFinal\Kyrsova\obj\Debug\Kyrsova.csproj.GenerateResource.cache
+C:\Users\danii\Desktop\FixikFinal\Kyrsova\obj\Debug\Kyrsova.csproj.CoreCompileInputs.cache
+C:\Users\danii\Desktop\FixikFinal\Kyrsova\obj\Debug\Kyrsova.csproj.CopyComplete
+C:\Users\danii\Desktop\FixikFinal\Kyrsova\obj\Debug\Kyrsova.exe
+C:\Users\danii\Desktop\FixikFinal\Kyrsova\obj\Debug\Kyrsova.pdb
+C:\Users\loban\OneDrive\Рабочий стол\FixikFinal\Kyrsova\bin\Debug\Kyrsova.exe.config
+C:\Users\loban\OneDrive\Рабочий стол\FixikFinal\Kyrsova\bin\Debug\Kyrsova.exe
+C:\Users\loban\OneDrive\Рабочий стол\FixikFinal\Kyrsova\bin\Debug\Kyrsova.pdb
+C:\Users\loban\OneDrive\Рабочий стол\FixikFinal\Kyrsova\bin\Debug\Newtonsoft.Json.dll
+C:\Users\loban\OneDrive\Рабочий стол\FixikFinal\Kyrsova\bin\Debug\Newtonsoft.Json.xml
+C:\Users\loban\OneDrive\Рабочий стол\FixikFinal\Kyrsova\obj\Debug\Kyrsova.csproj.AssemblyReference.cache
+C:\Users\loban\OneDrive\Рабочий стол\FixikFinal\Kyrsova\obj\Debug\Kyrsova.csproj.SuggestedBindingRedirects.cache
+C:\Users\loban\OneDrive\Рабочий стол\FixikFinal\Kyrsova\obj\Debug\Kyrsova.Form1.resources
+C:\Users\loban\OneDrive\Рабочий стол\FixikFinal\Kyrsova\obj\Debug\Kyrsova.Oclock.resources
+C:\Users\loban\OneDrive\Рабочий стол\FixikFinal\Kyrsova\obj\Debug\Kyrsova.Pomagator.resources
+C:\Users\loban\OneDrive\Рабочий стол\FixikFinal\Kyrsova\obj\Debug\Kyrsova.Properties.Resources.resources
+C:\Users\loban\OneDrive\Рабочий стол\FixikFinal\Kyrsova\obj\Debug\Kyrsova.Zamok.resources
+C:\Users\loban\OneDrive\Рабочий стол\FixikFinal\Kyrsova\obj\Debug\Kyrsova.csproj.GenerateResource.cache
+C:\Users\loban\OneDrive\Рабочий стол\FixikFinal\Kyrsova\obj\Debug\Kyrsova.csproj.CoreCompileInputs.cache
+C:\Users\loban\OneDrive\Рабочий стол\FixikFinal\Kyrsova\obj\Debug\Kyrsova.csproj.CopyComplete
+C:\Users\loban\OneDrive\Рабочий стол\FixikFinal\Kyrsova\obj\Debug\Kyrsova.exe
+C:\Users\loban\OneDrive\Рабочий стол\FixikFinal\Kyrsova\obj\Debug\Kyrsova.pdb
+C:\Users\danii\Desktop\Курсова1\FixikFinal\Kyrsova\bin\Debug\Kyrsova.exe.config
+C:\Users\danii\Desktop\Курсова1\FixikFinal\Kyrsova\bin\Debug\Kyrsova.exe
+C:\Users\danii\Desktop\Курсова1\FixikFinal\Kyrsova\bin\Debug\Kyrsova.pdb
+C:\Users\danii\Desktop\Курсова1\FixikFinal\Kyrsova\bin\Debug\Newtonsoft.Json.dll
+C:\Users\danii\Desktop\Курсова1\FixikFinal\Kyrsova\bin\Debug\Newtonsoft.Json.xml
+C:\Users\danii\Desktop\Курсова1\FixikFinal\Kyrsova\obj\Debug\Kyrsova.csproj.AssemblyReference.cache
+C:\Users\danii\Desktop\Курсова1\FixikFinal\Kyrsova\obj\Debug\Kyrsova.csproj.SuggestedBindingRedirects.cache
+C:\Users\danii\Desktop\Курсова1\FixikFinal\Kyrsova\obj\Debug\Kyrsova.Form1.resources
+C:\Users\danii\Desktop\Курсова1\FixikFinal\Kyrsova\obj\Debug\Kyrsova.Oclock.resources
+C:\Users\danii\Desktop\Курсова1\FixikFinal\Kyrsova\obj\Debug\Kyrsova.Pomagator.resources
+C:\Users\danii\Desktop\Курсова1\FixikFinal\Kyrsova\obj\Debug\Kyrsova.Properties.Resources.resources
+C:\Users\danii\Desktop\Курсова1\FixikFinal\Kyrsova\obj\Debug\Kyrsova.Zamok.resources
+C:\Users\danii\Desktop\Курсова1\FixikFinal\Kyrsova\obj\Debug\Kyrsova.csproj.GenerateResource.cache
+C:\Users\danii\Desktop\Курсова1\FixikFinal\Kyrsova\obj\Debug\Kyrsova.csproj.CoreCompileInputs.cache
+C:\Users\danii\Desktop\Курсова1\FixikFinal\Kyrsova\obj\Debug\Kyrsova.csproj.CopyComplete
+C:\Users\danii\Desktop\Курсова1\FixikFinal\Kyrsova\obj\Debug\Kyrsova.exe
+C:\Users\danii\Desktop\Курсова1\FixikFinal\Kyrsova\obj\Debug\Kyrsova.pdb

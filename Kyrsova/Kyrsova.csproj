@@ -1,0 +1,268 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{A06DECE2-E35F-4C3C-82E9-8E0757D6AA6E}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <RootNamespace>Kyrsova</RootNamespace>
+    <AssemblyName>Kyrsova</AssemblyName>
+    <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+    <Deterministic>true</Deterministic>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="Newtonsoft.Json, Version=13.0.0.0, Culture=neutral, PublicKeyToken=30ad4fe6b2a6aeed, processorArchitecture=MSIL">
+      <HintPath>..\packages\Newtonsoft.Json.13.0.3\lib\net45\Newtonsoft.Json.dll</HintPath>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Class\FlyWeightImage.cs" />
+    <Compile Include="Class\GameControl.cs" />
+    <Compile Include="Class\ZamokLevel2.cs" />
+    <Compile Include="Form1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form1.Designer.cs">
+      <DependentUpon>Form1.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Oclock.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Oclock.Designer.cs">
+      <DependentUpon>Oclock.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Pomagator.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Pomagator.Designer.cs">
+      <DependentUpon>Pomagator.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Zamok.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Zamok.Designer.cs">
+      <DependentUpon>Zamok.cs</DependentUpon>
+    </Compile>
+    <EmbeddedResource Include="Form1.resx">
+      <DependentUpon>Form1.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Oclock.resx">
+      <DependentUpon>Oclock.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Pomagator.resx">
+      <DependentUpon>Pomagator.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <EmbeddedResource Include="Zamok.resx">
+      <DependentUpon>Zamok.cs</DependentUpon>
+    </EmbeddedResource>
+    <None Include="packages.config" />
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Fon level 2.jpeg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Fon.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Pomogator.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Papys.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Zamok.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Down.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Up.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Pomogator1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Fon1.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\First_0.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\First_1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\First_2.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\First_3.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\First_4.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\First_5.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\First_6.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\First_7.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\First_8.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\First_9.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Secondly_0.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Secondly_1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Secondly_2.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Secondly_3.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Secondly_4.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Secondly_5.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Secondly_6.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Secondly_7.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Secondly_8.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Secondly_9.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Gear_0.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Gear_1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Gear_3.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Gear_4.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Gear_5.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Gear_2.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Fon_0.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Fon_1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Fon_2.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Fon_3.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\fiksiki-fon.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Без имени-1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Без имени-11.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Без имени-12.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Без имени-2.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Без имен.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Без имен1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Без имени-3.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Без имени-31.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Без имени-21.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Без имени-13.png" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+</Project>
